@@ -9,7 +9,7 @@
   "keywords": [
     "matlab"
   ],
-  "author": "",
+  "author": "Jodie Weldon",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0"
