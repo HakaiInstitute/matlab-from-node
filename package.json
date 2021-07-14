@@ -1,0 +1,17 @@
+{
+  "name": "matlab-from-node",
+  "version": "1.0.0",
+  "description": "Run matlab commands from within node",
+  "main": "matlab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matlab"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
